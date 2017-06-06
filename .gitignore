@@ -45,7 +45,12 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Images ignored
 *.png
 *.jpg
 images/1331 - shark.gif
 *.gif
+
+# Jetbrains
+.idea/
